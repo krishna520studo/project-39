@@ -1,2 +1,1 @@
-# project-39
-virtual pet
+# c39-Teacher-reference
